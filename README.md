@@ -16,7 +16,7 @@ Click on Generate
 The project zip file will get downloaded, now unzip your folder
 
 
- 3) Create the MySql database,
+3) Create the MySql database,
 Open MySql workbench or log in from terminal
 
 Create new schema “Registration”
