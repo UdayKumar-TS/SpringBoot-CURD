@@ -1,6 +1,6 @@
 Requirements
-Maven 3.0+
-IDE (Eclipse or IntelliJ)
+
+Maven 3.0+IDE (Eclipse or IntelliJ)
 JDK 1.8+
 MySql database server
 Postman or Insomnia for testing
